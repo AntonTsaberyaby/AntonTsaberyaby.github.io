@@ -2,50 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://antontsaberyaby.github.io/post/migrate-from-jekyll/</loc>
+    <loc>http://antontsaberyaby.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/post/go-is-for-lovers/</loc>
+    <loc>http://antontsaberyaby.github.io/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/post/hugo-is-for-lovers/</loc>
+    <loc>http://antontsaberyaby.github.io/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/post/creating-a-new-theme/</loc>
+    <loc>http://antontsaberyaby.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/categories/</loc>
+    <loc>http://antontsaberyaby.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/categories/ipsum/</loc>
+    <loc>http://antontsaberyaby.github.io/categories/ipsum/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/categories/lorem/</loc>
+    <loc>http://antontsaberyaby.github.io/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/post/</loc>
+    <loc>http://antontsaberyaby.github.io/post/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://antontsaberyaby.github.io/</loc>
+    <loc>http://antontsaberyaby.github.io/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
